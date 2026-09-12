@@ -1,0 +1,77 @@
+Privacy Policy
+
+Last updated: 12 September 2026
+
+1. Introduction
+
+This Privacy Policy explains how locateHours2026 ("the App") handles information when you use the App with Google Sheets.
+
+The App is a Google Apps Script designed to help users manage working-time periods within a Google Spreadsheet.
+
+2. Information the App accesses
+
+The App accesses only the Google Spreadsheet in which it is installed and used.
+
+The App may read and modify spreadsheet data necessary to perform its functions, including:
+
+Reading the selected cell and spreadsheet rows
+Reading existing cell values
+Adding rows to the spreadsheet
+Modifying cell contents and formatting
+Adjusting row heights
+Moving the active cell
+
+The App requests the following Google authorization scope:
+
+https://www.googleapis.com/auth/spreadsheets.currentonly
+
+This permission allows the App to access and modify the current spreadsheet only.
+
+3. Information the App does not collect
+
+The App does not:
+
+Collect or store personal information on external servers
+Sell or share user information
+Send spreadsheet contents to the developer
+Access the user's Gmail, Google Drive files, Calendar, Contacts, or other Google services
+Track users across websites or services
+Use spreadsheet information for advertising
+Use spreadsheet information for profiling users
+
+All spreadsheet processing performed by the App takes place within the user's Google Sheets environment.
+
+4. Data storage
+
+The App does not maintain an external database or server-side storage of user spreadsheet information.
+
+Any information entered into or modified within the spreadsheet remains subject to Google's storage and privacy policies.
+
+5. Third-party services
+
+The App uses Google Apps Script and Google Sheets to provide its functionality.
+
+The App does not transfer user spreadsheet data to any third-party service.
+
+6. Data security
+
+Because the App does not transmit or store spreadsheet information on external servers, the App itself does not maintain a separate copy of users' spreadsheet data.
+
+Users are responsible for maintaining appropriate security for their Google account and spreadsheet, including controlling who has access to the spreadsheet.
+
+7. Children's privacy
+
+The App is not specifically directed toward children and does not knowingly collect personal information from children.
+
+8. Changes to this Privacy Policy
+
+This Privacy Policy may be updated if the functionality of the App changes or if necessary to comply with legal or regulatory requirements.
+
+The latest version will always be made available at this webpage.
+
+9. Contact
+
+If you have questions about this Privacy Policy or the App, please contact:
+
+Andy Daniel
+Email: andy.daring@gmail.com
